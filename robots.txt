@@ -1,4 +1,5 @@
+
 User-agent: *
 Allow: /
 
-# Add a Sitemap directive after publishing, once the exact GitHub Pages URL is known.
+Sitemap: https://aseventandcaterers.com/sitemap.xml
